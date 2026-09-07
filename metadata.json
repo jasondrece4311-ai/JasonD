@@ -1,0 +1,6 @@
+{
+  "name": "PriceTag",
+  "description": "Real-time AI camera object identification and market value price tagging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
